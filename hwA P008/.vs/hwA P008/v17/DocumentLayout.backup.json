@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35499\\source\\repos\\hwA P008\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B83F199-4690-4F9C-8945-32D439C0AD4B}|hwA P008\\hwA P008.vcxproj|C:\\Users\\35499\\source\\repos\\hwA P008\\hwA P008\\GPA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B83F199-4690-4F9C-8945-32D439C0AD4B}|hwA P008\\hwA P008.vcxproj|solutionrelative:hwA P008\\GPA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPA.c",
+              "DocumentMoniker": "C:\\Users\\35499\\source\\repos\\hwA P008\\hwA P008\\GPA.c",
+              "RelativeDocumentMoniker": "hwA P008\\GPA.c",
+              "ToolTip": "C:\\Users\\35499\\source\\repos\\hwA P008\\hwA P008\\GPA.c",
+              "RelativeToolTip": "hwA P008\\GPA.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-25T05:59:24.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

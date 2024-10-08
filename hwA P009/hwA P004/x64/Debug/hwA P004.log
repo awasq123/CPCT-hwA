@@ -1,0 +1,4 @@
+﻿  reverse.c
+C:\Users\35499\source\repos\hwA P009\hwA P004\reverse.c(11,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\35499\source\repos\hwA P009\hwA P004\reverse.c(27,6): warning C4101: “ret_val”: 未引用的局部变量
+  hwA P004.vcxproj -> C:\Users\35499\source\repos\hwA P009\x64\Debug\hwA P004.exe

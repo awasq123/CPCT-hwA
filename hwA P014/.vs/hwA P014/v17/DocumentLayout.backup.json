@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35499\\source\\repos\\hwA P014\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAAE205-8D5E-4F77-AAF5-7B2A347A10C6}|hwA P014\\hwA P014.vcxproj|C:\\Users\\35499\\source\\repos\\hwA P014\\hwA P014\\montecarlo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CAAE205-8D5E-4F77-AAF5-7B2A347A10C6}|hwA P014\\hwA P014.vcxproj|solutionrelative:hwA P014\\montecarlo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "montecarlo.c",
+              "DocumentMoniker": "C:\\Users\\35499\\source\\repos\\hwA P014\\hwA P014\\montecarlo.c",
+              "RelativeDocumentMoniker": "hwA P014\\montecarlo.c",
+              "ToolTip": "C:\\Users\\35499\\source\\repos\\hwA P014\\hwA P014\\montecarlo.c",
+              "RelativeToolTip": "hwA P014\\montecarlo.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-28T13:24:24.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

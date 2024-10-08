@@ -1,0 +1,3 @@
+﻿  GPA.c
+C:\Users\35499\source\repos\hwA P008\hwA P008\GPA.c(70,10): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  hwA P008.vcxproj -> C:\Users\35499\source\repos\hwA P008\x64\Debug\hwA P008.exe

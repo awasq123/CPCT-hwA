@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35499\\source\\repos\\hwA P015\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D55E119-C919-4BEA-9D01-99DB5A676B24}|hwA P015\\hwA P015.vcxproj|C:\\Users\\35499\\source\\repos\\hwA P015\\hwA P015\\reverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D55E119-C919-4BEA-9D01-99DB5A676B24}|hwA P015\\hwA P015.vcxproj|solutionrelative:hwA P015\\reverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reverse.c",
+              "DocumentMoniker": "C:\\Users\\35499\\source\\repos\\hwA P015\\hwA P015\\reverse.c",
+              "RelativeDocumentMoniker": "hwA P015\\reverse.c",
+              "ToolTip": "C:\\Users\\35499\\source\\repos\\hwA P015\\hwA P015\\reverse.c",
+              "RelativeToolTip": "hwA P015\\reverse.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T03:15:35.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
